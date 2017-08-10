@@ -9,11 +9,7 @@
     "tyk",
     "api"
   ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/TykTechnologies/tyk-hybrid-docker"
-    }
-  ],
+  "image": "tykio/tyk-hybrid-docker",
   "formation": {
     "web": {
       "quantity": 1,

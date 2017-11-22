@@ -1,2 +1,3 @@
+apt-transport-https
 :repo:deb https://packagecloud.io/tyk/tyk-gateway/ubuntu/ trusty main
 tyk-gateway
